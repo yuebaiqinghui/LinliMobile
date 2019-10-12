@@ -3,9 +3,9 @@
 import Vue from 'vue'
 import NutUI from '@nutui/nutui'
 import '@nutui/nutui/dist/nutui.css'
+import 'lib-flexible/flexible'
 import App from './App'
 import router from './router'
-import 'lib-flexible/flexible'
 
 NutUI.install(Vue)
 Vue.config.productionTip = false
