@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p class="copy">Copyright @ 广州佳邻网络科技有限公司 - 粤ICP备15205632号</p>
+    <p class="copy">Copyright @ 广州佳邻网络科技有限公司 - <a href="http://beian.miit.gov.cn" target="_blank" style="color: #fff">粤ICP备19143498号-1</a></p>
   </footer>
 </template>
 <style>
