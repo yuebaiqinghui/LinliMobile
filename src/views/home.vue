@@ -104,8 +104,8 @@
       <img src="../assets/separated@2x.png" alt="">
         <div class="information">
           <div class="info"><div class="info-tab">地址:</div><div class="info-content">广东省广州市越秀区人民街大新路102号</div></div>
-          <div class="info"><div class="info-tab">电话:</div><div class="info-content">17329908995</div></div>
-          <div class="info"><div class="info-tab">邮箱:</div><div class="info-content">caizhiqiang@jialinkeji.com</div></div>
+          <div class="info"><div class="info-tab">电话:</div><div class="info-content">020-83568099</div></div>
+          <div class="info"><div class="info-tab">邮箱:</div><div class="info-content">kit@jlkjllgx.com</div></div>
         </div>
         <div class="form">
           <input type="text" placeholder="标题">
